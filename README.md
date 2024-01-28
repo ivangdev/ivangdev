@@ -13,7 +13,7 @@
 <br/>
 <hr/>
 
-## <img src="https://i.gifer.com/VhdL.gif" width ="25"><b> Connect with Me</b>
+## <img src="https://user-images.githubusercontent.com/74038190/214644145-264f4759-7633-441e-9d67-d8dda9d50d26.gif" width ="25"><b> Connect with Me</b>
 
 <div align="center">
 <a href="https://www.linkedin.com/in/iv%C3%A1n-guerrero-906689258/" target="_blank">
