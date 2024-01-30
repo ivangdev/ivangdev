@@ -32,10 +32,10 @@
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 
 <p align="center">
-<a href="https://github.com/AVS1508">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IGuerreroV&show_icons=true&theme=merko"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IGuerreroV&layout=compact&theme=dark"/>
-</a>
+<source href="https://github.com/AVS1508">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iguerrerov&show_icons=true&theme=merko"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iguerrerov&layout=compact&theme=dark"/>
+</source>
 </p>
 
 <p align="center">
