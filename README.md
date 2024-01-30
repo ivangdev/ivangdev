@@ -9,7 +9,7 @@
 	</a>
 </p>
 <hr/>
-<h4 align="center">I am a Junior  I like to Code, Design, Innovate and Experiment. I am an enthusiastic and a social person who loves to take up new challenges and learn new skills. I love meeting new people, exchanging ideas and spreading knowledge and positivity.<h4/>
+<h4 align="center">I am a Junior  I like to Code, Design, Innovate and Experiment. I am an enthusiastic and a social person who loves to take up new challenges and learn new skills. I love meeting new people, exchanging ideas and spreading knowledge and positivity.</h4>
 <br/>
 <hr/>
 
@@ -38,9 +38,9 @@
 </source>
 </p>
 
-<p align="center">
+<div align="center">
 <img src=https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif>
-</p>
+</div>
 
 
 
