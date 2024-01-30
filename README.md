@@ -31,13 +31,12 @@
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 
-<p align="center">
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=iguerrerov&show_icons=true&theme=dark)
-
-<![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iguerrerov&layout=compact&theme=dark)
-
-</p>
+<a>
+  <img height=200  align="center" src="https://github-readme-stats.vercel.app/api?username=IGuerreroV&show_icons=true&theme=dark" />
+</a>
+<a >
+  <img height=200  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IGuerreroV&layout=compact&theme=dark" />
+</a>
 
 <div align="center">
 <img src=https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif>
