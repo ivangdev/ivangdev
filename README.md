@@ -1,6 +1,12 @@
 <h1 align="center">Hi there 👋</h1>
 
-![Profile views](https://komarev.com/ghpvc/?username=ivangdev&style=flat-square)
+
+
+<div align="center">
+<img src=https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGtkZzFxemxwa3cxZ3g2c3J1bG9xdnBvdWo1NTIzMXQwb2JtemxvayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lPCbQV5IcUt7JnucpP/giphy.gif heigth=200 width=200 >
+</div>
+
+
 <h4 align="center">My name is Ivan. I am an undergraduate student at San Buenaventura University, Colombia.</h4>
 
 <p align="center">
@@ -32,13 +38,12 @@
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 
 <div align="center">
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=ivangdev&theme=black-ice"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ivangdev&show_icons=true&theme=dark"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivangdev&layout=compact&theme=dark"/>
 </div>
 
-<div align="center">
-<img src=https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWZqZ2huMmc3dG11dmpoeDUyOXRkemNuYngxNmRjcXk1aGdrMzRpbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MXEPYlqnMUeQDm0eMC/giphy.gif>
-</div>
+
 
 
 
